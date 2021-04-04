@@ -9,3 +9,7 @@ output the probability of potting each red ball based on
 1. Distance from white to red to pocket  
 
 2. Angle between the line of sight of White to red and Red to pocket
+
+
+
+Has flaws in the accuracy of output values of probability, can be improved in many ways.
